@@ -1,4 +1,4 @@
-Rough Draft of a small business hompage icluding a splash page, contact form, portfolio about page.
+Rough Draft of a small business hompage icluding a splash page, contact form, portfolio about page. As the public page is being worked on the landing page is live here: https://studio-boca.com/
 
 <img width="959" alt="Screen Shot 2021-07-22 at 8 55 21 AM" src="https://user-images.githubusercontent.com/49768581/126650958-771e4a9b-83eb-4007-b07c-7100067ac359.png">
 
