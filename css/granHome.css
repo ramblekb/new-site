@@ -1,0 +1,168 @@
+body,
+html {
+    height: 100%;
+    width: auto;
+    margin: 0;
+    font-family: 'futura_t_otbook';
+}
+
+@font-face {
+    font-family: 'futura_t_otbook';
+    src: url(/fonts/Futura-T-OT-Book_19064.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+.bg-music {
+    position: absolute;
+    top: 64%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    color: #FB5058;
+}
+
+.btn:hover {
+    opacity: 80%;
+}
+
+
+/* .bg
+{
+    background-image: url(../images/Artboard\ 1-8.png);
+  color: blue;
+height: 90%;
+    width: auto;
+    background-position: center;
+    background-size: cover;
+  } */
+
+#interior {
+    font-family: 'futura_t_otbook';
+    font-size: 40px;
+    letter-spacing: 20.7px;
+    color: #FB5058;
+    color: rgb(251, 80, 88);
+    opacity: 80%;
+    /* padding-top: 5%; */
+    /* padding-bottom: -3%; */
+}
+
+#studio {
+    font-family: 'futura_t_otbook';
+    font-size: 40px;
+    letter-spacing: 32.7px;
+    color: #FB5058;
+    color: rgb(251, 80, 88);
+    opacity: 80%;
+    padding-top: 10%;
+    padding-bottom: -5%;
+}
+
+#boca {
+    font-family: 'futura_t_otbook';
+    font-size: 200px;
+    text-align: center;
+    letter-spacing: 24.7px;
+    color: #FB5058;
+    opacity: 80%;
+    /* padding-top: 2%; */
+    /* padding-bottom: -2%; */
+}
+
+#chatt {
+    font-family: 'futura_t_otbook';
+    font-size: 22px;
+    letter-spacing: 8.7px;
+    color: #FB5058;
+    opacity: 80%;
+    padding-top: 5%;
+}
+
+#call {
+    /* position: fixed; */
+    text-align: center;
+    /* width: auto; */
+    padding-top: 10%;
+    /* border: 3px solid #ff7d7d; */
+    font-family: 'futura_t_otbook';
+    font-size: 16px;
+    letter-spacing: 8.7px;
+    color: #FB5058;
+    opacity: 80%;
+    /* padding-left: 200px; */
+}
+
+#meanwhile {
+    /* padding-top: 5%; */
+    font-family: 'futura_t_otbook';
+    font-size: 20px;
+}
+
+#inq {
+    font-family: 'futura_t_otbook';
+    font-size: 16px;
+    letter-spacing: 8.7px;
+    color: #FB5058;
+    opacity: 80%;
+    padding-top: 5px;
+    /* padding-bottom: 20px; */
+}
+
+
+/* #navBar {
+   
+  padding-top: .5px;
+
+}  */
+
+.nav-link {
+    color: #FB5058;
+    font-family: 'futura_t_otbook';
+    opacity: 80%;
+}
+
+#canvas-basic {
+    position: absolute;
+    display: block;
+    width: auto;
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 40%;
+}
+
+#soon {
+    height: 10;
+    width: auto;
+    color: #FB5058;
+    font-family: 'futura_t_otbook';
+    padding: 0%;
+}
+
+#music {
+    opacity: 150%;
+}
+
+#dbag {
+    background-blend-mode: color;
+}
+
+#yo {
+    height: 10px;
+    width: 10px;
+    counter-reset: orange;
+    opacity: 2.5%;
+    background-color: #FB5058;
+}
+
+.fa-instagram {
+    /* padding: 20px; */
+    font-size: 30px;
+    /* width: 50px; */
+    text-align: center;
+    text-decoration: none;
+    color: #FB5058;
+}

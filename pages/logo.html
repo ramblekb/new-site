@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/splash.css" />
+
+    <script>
+      $(document).ready(function () {
+        $("#div1").fadeIn();
+        $("#div2").fadeIn("slow");
+        $("#div3").fadeIn(3000);
+      });
+    </script>
+  </head>
+
+  <body>
+    <div
+      class="container"
+      id="div3"
+      style="
+        width: 90%;
+        height: auto;
+        display: none;
+        background-color: rgba(255, 0, 0, 0);
+      "
+    >
+      <img
+        src="/images/stamp/noBack.png"
+        class="responsive"
+        style="position: relative; max-width: 100%; max-height: 500px"
+      />
+    </div>
+
+    <br />
+
+    <br />
+    <h
+      style="
+        position: absolute;
+        bottom: 8px;
+        vertical-align: middle;
+        text-align: center;
+        font-size: 20px;
+        color: black;
+        padding-bottom: 120px;
+      "
+      >Website coming soon. Meanwhile, follow our work on Instagram.</h
+    >
+    <br />
+    <div
+      style="
+        position: absolute;
+        bottom: 8px;
+        vertical-align: middle;
+        padding-bottom: 60px;
+        color: black;
+      "
+    >
+      <a href="https://www.instagram.com/studioboca/?hl=en" target="_blank">
+        <img height="32" src="/images/instaRed.png" />
+      </a>
+    </div>
+    <br />
+    <div
+      style="
+        position: absolute;
+        bottom: 8px;
+        vertical-align: middle;
+        padding-bottom: 15px;
+        color: black;
+      "
+    >
+      <a href="/email.php" style="color: black">Admin@Boca.Studio</a>
+    </div>
+  </body>
+</html>

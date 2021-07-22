@@ -1,0 +1,147 @@
+body,
+html {
+    height: 100%;
+    width: auto;
+    margin: 0;
+    font-family: 'futura_t_otbook';
+}
+
+@font-face {
+    font-family: 'futura_t_otbook';
+    src: url(/fonts/Futura-T-OT-Book_19064.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+h2 {
+    font-family: 'futura_t_otbook';
+}
+
+#logo {
+    width: 200px;
+    /* float: left; */
+    padding-top: 2px;
+    /* padding-right: 10px; */
+    margin-left: 2%;
+}
+
+#navin {
+    float: right;
+    padding-top: 10px;
+    /* padding-right: 10px; */
+    margin-left: 10px;
+}
+
+#navr {
+    padding-top: 10px;
+    letter-spacing: 4.7px;
+    /* padding-left: 2px; */
+    margin-left: 10px;
+}
+
+#bar {
+    padding-left: 40%;
+}
+
+.header {
+    font-size: 8px;
+    /* color: #FB5058; */
+    letter-spacing: 4.7px;
+    opacity: 80%;
+    /* position: center; */
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FB5058;
+}
+
+.btn:hover {
+    opacity: 80%;
+}
+
+.footer {
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    background-color: white;
+    color: white;
+    text-align: center;
+    font-family: 'futura_t_otbook';
+    color: #FB5058;
+    font-weight: 800;
+}
+
+p {
+    font-family: 'futura_t_otbook';
+    color: #FB5058;
+    text-align: center;
+    font-size: medium;
+}
+
+#brief {
+    font-family: 'futura_t_otbook';
+    color: black;
+    text-align: center;
+    opacity: 800%;
+    background-color: white;
+    font-size: medium;
+}
+
+#navBar {
+    float: right;
+    padding-top: 5px;
+}
+
+.nav-link {
+    font-family: 'futura_t_otbook';
+    color: black;
+    /* opacity: 80%; */
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-top: 5%;
+    background-color: white;
+}
+
+.responsive {
+    max-width: 100%;
+    max-height: 729px;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#call {
+    font-family: 'futura_t_otbook';
+    font-size: 13px;
+    letter-spacing: 8.7px;
+    color: #FB5058;
+    opacity: 80%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+}
+
+#run {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#but {
+    text-align: center;
+    position: bottom;
+    padding-bottom: 0px;
+    padding-top: 2%;
+}

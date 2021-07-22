@@ -1,0 +1,179 @@
+    body,
+    html {
+        height: 100%;
+        width: auto;
+        margin: 0;
+    }
+    
+    @font-face {
+        font-family: 'futura_t_otbook';
+        src: url(/fonts/Futura-T-OT-Book_19064.ttf);
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+    h2 {
+        font-family: 'futura_t_otbook';
+    }
+    
+    #logo {
+        width: 200px;
+        /* float: left; */
+        padding-top: 10px;
+        /* padding-right: 10px; */
+        margin-left: 2%;
+    }
+    
+    #navin {
+        float: right;
+        padding-top: 10px;
+        /* padding-right: 10px; */
+        margin-left: 10px;
+    }
+    
+    #navr {
+        padding-top: 20px;
+        letter-spacing: 4.7px;
+        /* padding-left: 2px; */
+        margin-left: 10px;
+    }
+    
+    #bar {
+        padding-left: 40%;
+    }
+    
+    .header {
+        font-size: 8px;
+        /* color: #FB5058; */
+        letter-spacing: 4.7px;
+        opacity: 80%;
+        /* position: center; */
+    }
+    /* #myheader {
+        font-size: 2px;
+        color: #FB5058;
+    } */
+    
+    #sing {
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+    }
+    
+    #gals {
+        width: auto;
+        max-height: 500px;
+        margin-top: 20px;
+    }
+    
+    .footer {
+        /* position: fixed; */
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        padding-bottom: 10px;
+        padding-top: 30px;
+        background-color: white;
+        color: white;
+        text-align: center;
+        font-family: 'futura_t_otbook';
+        color: #FB5058;
+        font-weight: 800;
+    }
+    
+    p {
+        font-family: 'futura_t_otbook';
+        color: #FB5058;
+        text-align: center;
+        font-size: medium;
+    }
+    
+    #con {
+        font-family: 'futura_t_otbook';
+        color: #FB5058;
+    }
+    
+    a:hover {
+        text-decoration: none;
+        color: #FB5058;
+    }
+    
+    .btn:hover {
+        opacity: 80%;
+    }
+    
+    .responsive {
+        width: auto;
+        /* height: auto; */
+        max-width: 550px;
+        max-height: 600px;
+        position: relative;
+        padding-bottom: 10px;
+        padding-top: 15px;
+    }
+    
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+        height: auto;
+    }
+    
+    #eye {
+        height: 70%;
+        width: auto;
+        font-family: 'futura_t_otbook';
+    }
+    
+    #call {
+        font-family: 'futura_t_otbook';
+        font-size: 15px;
+        letter-spacing: 10.7px;
+        color: #FB5058;
+        opacity: 80%;
+        padding-bottom: 5px;
+        padding-top: 40px;
+    }
+    
+    #inq {
+        font-family: 'futura_t_otbook';
+        font-size: 11px;
+        letter-spacing: 8.7px;
+        color: #FB5058;
+        opacity: 80%;
+        /* padding-top: 6%;
+  padding-right: 2%; */
+    }
+    
+    #navBar {
+        float: right;
+        padding-top: 5px;
+    }
+    
+    .nav-link {
+        font-family: 'futura_t_otbook';
+        color: black;
+        /* opacity: 80%; */
+    }
+    
+    #soon {
+        height: 20px;
+        width: auto;
+        color: #FB5058;
+        font-family: 'futura_t_otbook';
+        padding: 0%;
+    }
+    
+    #but {
+        text-align: center;
+        position: fixed;
+        padding-bottom: 10px;
+        padding-top: 5%;
+        padding-bottom: 5%;
+        /* margin-bottom: 10px; */
+    }
+    
+    .fa-instagram {
+        font-size: 30px;
+    }
