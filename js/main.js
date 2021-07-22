@@ -1,14 +1,3 @@
-(function($) {
-    "use strict";
-
-
-    /*==================================================================
-    [ Validate ]*/
-    var name = $('.validate-input input[name="name"]');
-    var email = $('.validate-input input[name="email"]');
-    var subject = $('.validate-input input[name="subject"]');
-    var message = $('.validate-input textarea[name="message"]');
-
 
     $('.validate-form').on('submit', function() {
         var check = true;
@@ -55,7 +44,4 @@
 
         $(thisAlert).removeClass('alert-validate');
     }
-
-
-
-})(jQuery);
+});

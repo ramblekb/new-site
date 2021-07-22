@@ -8,7 +8,7 @@ html {
 
 @font-face {
     font-family: 'futura_t_otbook';
-    src: url(/fonts/Futura-T-OT-Book_19064.ttf);
+    /* src: url(/fonts/Futura-T-OT-Book_19064.ttf); */
     font-weight: normal;
     font-style: normal;
 }
